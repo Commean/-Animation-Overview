@@ -7,3 +7,6 @@
 [submodule "frames/2000-2999"]
 	path = frames/2000-2999
 	url = https://gitlab.com/commean/other/big-files/animation-overview-files-3
+[submodule "frames/3000-3730"]
+	path = frames/3000-3730
+	url = https://gitlab.com/commean/other/big-files/animation-overview-files-4
